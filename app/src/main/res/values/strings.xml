@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Week6MDP</string>
+    <string-array name="data_nrp">
+        <item>217111234</item>
+        <item>217111235</item>
+        <item>217111236</item>
+        <item>217111237</item>
+        <item>217111238</item>
+        <item>217111239</item>
+        <item>217111240</item>
+        <item>217111241</item>
+        <item>217111242</item>
+        <item>217111243</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Esther Irawati</item>
+        <item>Indra Maryati</item>
+        <item>Amelia Alexandra</item>
+        <item>Kevin Setiono</item>
+        <item>Jeanie Alex</item>
+        <item>Anita Hara</item>
+        <item>Susi Susanti</item>
+        <item>Budi Doremi</item>
+        <item>Paul Susanto</item>
+        <item>Freddy Adianto</item>
+    </string-array>
+
+    <string-array name="data_major">
+        <item>Computational Intelligence</item>
+        <item>Software Technology</item>
+        <item>Internet Technology</item>
+        <item>Internet Technology</item>
+        <item>Software Technology</item>
+        <item>Computational Intelligence</item>
+        <item>Software Technology</item>
+        <item>Internet Technology</item>
+        <item>Computational Intelligence</item>
+        <item>Computational Intelligence</item>
+    </string-array>
+</resources>
